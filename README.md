@@ -4,4 +4,4 @@ Son expansion rapide révolutionne les processus en automatisant des tâches com
 
 Veille sur le ML : https://github.com/pierre-mazard/what-is-machine-learning/blob/main/What%20Is%20The%20ML%20.pdf
 
-Slide sur le biais, le bruit, la variance et les défauts d'apprentissage : https://github.com/pierre-mazard/what-is-machine-learning/blob/main/Biais%2C%20Bruit%2C%20Overfitting%20et%20Underfitting%20en%20Machine%20Learning%20.pdf
+Slide sur le biais, le bruit, la variance et les défauts d'apprentissage : https://github.com/pierre-mazard/what-is-machine-learning/blob/main/Biais%2C%20Bruit%2C%20Overfitting%20et%20Underfitting%20en%20Machine%20Learning.pdf
